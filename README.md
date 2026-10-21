@@ -9,7 +9,7 @@ Sistema para organizar y controlar el proceso de pedidos de un establecimiento d
 
 | N.º | Nombre |
 |:---:|---|
-| 1 | Cédric Ulises Chávez Rodríguez |
+| 1 | Cedric Ulises Chávez Rodríguez |
 | 2 | Ángel Cédric Solano Reveles |
 | 3 | José Ángel Soriano Aguilar |
 
