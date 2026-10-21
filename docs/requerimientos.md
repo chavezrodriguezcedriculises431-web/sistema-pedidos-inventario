@@ -9,7 +9,7 @@
 
 | N.º | Apellido paterno | Apellido materno | Nombre(s)     |
 |:---:|------------------|------------------|---------------|
-| 1   | Chávez           | Rodríguez        | Cédric Ulises |
+| 1   | Chávez           | Rodríguez        | Cedric Ulises |
 | 2   | Solano           | Reveles          | Ángel Cédric  |
 | 3   | Soriano          | Aguilar          | José Ángel    |
 
